@@ -1,1 +1,40 @@
-<mxfile host="app.diagrams.net" modified="2020-08-05T10:15:47.497Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" etag="PuDG0kI7--CWGftuKq2M" version="13.6.0" type="github"><diagram id="dQnWIwxg25Cv5IZqiCGc" name="Page-1">rZRLj5swEMc/DccgwHnQY57toZV2tYceKwcPxlrDIGM2pJ++42ASULLaXalc7PnNjB/zHxOwbdl9N7wufqEAHSSR6AK2C5IkjuOEBkfOPVnOVz2QRgkfdAMv6i94GHnaKgHNJNAiaqvqKcywqiCzE8aNwdM0LEc93bXmEu7AS8b1Pf2thC16miarG/8BShbDzvHyW+8p+RDsb9IUXOBphNg+YFuDaPtZ2W1Bu+INdenzDu94rwczUNnPJPxRu+e2XT+3CTss51Ca+exp5ld547r1F/aHteehAnTu2k3LTjqJQ5nVYYZl3VoIZd0GbFPYUlNATNNcab1FjeaSy+YsXR12xClVKDro2LdM2X5NvsYafIXBU2FFu23ewFhFMvzkR9BP2CirsCL3Ea3FchSw1ko6h8WaKPdWRnsBLbfx96Ng6N4tXHyVg/oYsARrzhTiExYrr6Bv4UW8Chc9Od1aIk688MWkHZhvRd+G8rr6TSmaeLG+IFzyeeFUeenxsUyPi/dhzbVzbHj2Kg22lRiJmV8+Crlstm7q/i1GTpLByFUHYgghu7DWPeK1K0RyyEQ1DxU941xVAoxrMaKCW06D4w2NRyVnDs1yA0A2c1XcORClszhJw7qS/0HxO8GjB3KnD+Qe4BfkJvP2D7j4Rn9Stv8H</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-08-05T10:24:36.390Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" etag="sWswiCaaJOmtnw6tlWH4" version="13.6.0" type="github">
+  <diagram id="dQnWIwxg25Cv5IZqiCGc" name="Page-1">
+    <mxGraphModel dx="1939" dy="647" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="_iDQuuAQu23F64emr4-P-1" value="" style="shape=mxgraph.gcp.compute.gpu;html=1;fillColor=#4387FD;gradientColor=#4683EA;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;" parent="1" vertex="1">
+          <mxGeometry x="-90" y="390" width="129" height="113" as="geometry" />
+        </mxCell>
+        <mxCell id="_iDQuuAQu23F64emr4-P-2" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/big-data-free/32/Data-08-128.png" parent="1" vertex="1">
+          <mxGeometry x="-80" y="241" width="128" height="128" as="geometry" />
+        </mxCell>
+        <mxCell id="Xv4kO0z-SnhxBDCYFVWG-1" value="" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#005F4B;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam2.ram;" vertex="1" parent="1">
+          <mxGeometry x="810" y="281" width="180" height="79" as="geometry" />
+        </mxCell>
+        <mxCell id="Xv4kO0z-SnhxBDCYFVWG-3" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.twoWayArrow;dy=0.6;dx=35;" vertex="1" parent="1">
+          <mxGeometry x="-150" y="520" width="1200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Xv4kO0z-SnhxBDCYFVWG-6" value="I/O总线" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="670" y="503" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Xv4kO0z-SnhxBDCYFVWG-8" value="" style="shape=mxgraph.cisco.misc.bridge;html=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="400" y="277" width="100" height="83" as="geometry" />
+        </mxCell>
+        <mxCell id="Xv4kO0z-SnhxBDCYFVWG-10" value="I/O桥" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="415" y="250" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Xv4kO0z-SnhxBDCYFVWG-11" value="" style="shape=singleArrow;direction=north;whiteSpace=wrap;html=1;fontSize=18;arrowWidth=0.26666666666666666;arrowSize=0.21666666666666667;" vertex="1" parent="1">
+          <mxGeometry x="420" y="370" width="55" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="Xv4kO0z-SnhxBDCYFVWG-13" value="" style="shape=doubleArrow;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="80" y="308.5" width="290" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Xv4kO0z-SnhxBDCYFVWG-14" value="" style="shape=doubleArrow;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="510" y="308.5" width="290" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
