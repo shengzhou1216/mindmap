@@ -1,1 +1,28 @@
-<mxfile host="app.diagrams.net" modified="2020-08-05T10:45:08.862Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" version="13.6.0" etag="L8kGXzbIyQVHj_CsIM9B" type="github"><diagram id="bBeYt2RzNq78aczLVQOD">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-08-05T10:47:11.981Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" etag="UtHHOKcSEmyOeWxWNKs4" version="13.6.0" type="github">
+  <diagram id="bBeYt2RzNq78aczLVQOD" name="第 1 页">
+    <mxGraphModel dx="1112" dy="647" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="qxcwLUe2QiB2XirWhMHX-1" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/electronic-devices-vol-1-1/36/1_graphic_card_electronic_device_motherboard_smps_hardware_chip_1-128.png" vertex="1" parent="1">
+          <mxGeometry x="520" y="192" width="128" height="128" as="geometry" />
+        </mxCell>
+        <mxCell id="qxcwLUe2QiB2XirWhMHX-2" value="" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#4495D1;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.cpu;" vertex="1" parent="1">
+          <mxGeometry x="67.25" y="102" width="100" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="qxcwLUe2QiB2XirWhMHX-3" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.toolkit_for_visual_studio;fillColor=#53B1CB;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="70" y="320" width="94.5" height="88" as="geometry" />
+        </mxCell>
+        <mxCell id="qxcwLUe2QiB2XirWhMHX-4" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;notch=0;" vertex="1" parent="1">
+          <mxGeometry x="230" y="229" width="260" height="51" as="geometry" />
+        </mxCell>
+        <mxCell id="qxcwLUe2QiB2XirWhMHX-5" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;notch=0;" vertex="1" parent="1">
+          <mxGeometry x="670" y="230.5" width="260" height="51" as="geometry" />
+        </mxCell>
+        <mxCell id="qxcwLUe2QiB2XirWhMHX-6" value="" style="outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#D05C17;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.container_registry_image;" vertex="1" parent="1">
+          <mxGeometry x="980" y="174.5" width="160" height="160" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
