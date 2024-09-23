@@ -1,47 +1,47 @@
-<mxfile host="app.diagrams.net" modified="2020-08-05T13:20:18.097Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" etag="TNTYhja4ija5UUwusu5I" version="13.6.0" type="github">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36" version="24.7.16">
   <diagram id="dQnWIwxg25Cv5IZqiCGc" name="Page-1">
-    <mxGraphModel dx="2680" dy="1078" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2901" dy="1132" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="_iDQuuAQu23F64emr4-P-1" value="" style="shape=mxgraph.gcp.compute.gpu;html=1;fillColor=#4387FD;gradientColor=#4683EA;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;" parent="1" vertex="1">
-          <mxGeometry x="-50" y="550" width="129" height="113" as="geometry" />
+          <mxGeometry x="-230" y="520" width="129" height="113" as="geometry" />
         </mxCell>
         <mxCell id="_iDQuuAQu23F64emr4-P-2" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/big-data-free/32/Data-08-128.png" parent="1" vertex="1">
-          <mxGeometry x="-50" y="260" width="128" height="128" as="geometry" />
+          <mxGeometry x="-230" y="230" width="128" height="128" as="geometry" />
         </mxCell>
         <mxCell id="Xv4kO0z-SnhxBDCYFVWG-1" value="" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#005F4B;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam2.ram;" parent="1" vertex="1">
-          <mxGeometry x="830" y="461" width="180" height="79" as="geometry" />
+          <mxGeometry x="650" y="431" width="180" height="79" as="geometry" />
         </mxCell>
         <mxCell id="Xv4kO0z-SnhxBDCYFVWG-3" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.twoWayArrow;dy=0.6;dx=35;" parent="1" vertex="1">
-          <mxGeometry x="-130" y="800" width="1200" height="40" as="geometry" />
+          <mxGeometry x="-310" y="770" width="1200" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Xv4kO0z-SnhxBDCYFVWG-6" value="I/O总线" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" parent="1" vertex="1">
-          <mxGeometry x="770" y="780" width="70" height="20" as="geometry" />
+          <mxGeometry x="590" y="750" width="70" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Xv4kO0z-SnhxBDCYFVWG-8" value="" style="shape=mxgraph.cisco.misc.bridge;html=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;fontSize=18;" parent="1" vertex="1">
-          <mxGeometry x="420" y="457" width="100" height="83" as="geometry" />
+          <mxGeometry x="240" y="427" width="100" height="83" as="geometry" />
         </mxCell>
         <mxCell id="Xv4kO0z-SnhxBDCYFVWG-10" value="I/O桥" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" parent="1" vertex="1">
-          <mxGeometry x="435" y="430" width="70" height="20" as="geometry" />
+          <mxGeometry x="255" y="400" width="70" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Xv4kO0z-SnhxBDCYFVWG-11" value="" style="shape=singleArrow;direction=north;whiteSpace=wrap;html=1;fontSize=18;arrowWidth=0.26666666666666666;arrowSize=0.21666666666666667;" parent="1" vertex="1">
-          <mxGeometry x="440" y="550" width="55" height="260" as="geometry" />
+          <mxGeometry x="260" y="520" width="55" height="260" as="geometry" />
         </mxCell>
         <mxCell id="Xv4kO0z-SnhxBDCYFVWG-13" value="系统总线" style="shape=doubleArrow;whiteSpace=wrap;html=1;fontSize=18;rotation=15;" parent="1" vertex="1">
-          <mxGeometry x="68" y="402.5" width="324.97" height="27.5" as="geometry" />
+          <mxGeometry x="-112" y="372.5" width="324.97" height="27.5" as="geometry" />
         </mxCell>
         <mxCell id="Xv4kO0z-SnhxBDCYFVWG-14" value="内存总线" style="shape=doubleArrow;whiteSpace=wrap;html=1;fontSize=18;" parent="1" vertex="1">
-          <mxGeometry x="530" y="488.5" width="290" height="20" as="geometry" />
+          <mxGeometry x="350" y="458.5" width="290" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="KSfDmZof9sS_4XdEDlB2-2" value="内存" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="885" y="430" width="70" height="20" as="geometry" />
+        <mxCell id="KSfDmZof9sS_4XdEDlB2-2" value="内存" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" parent="1" vertex="1">
+          <mxGeometry x="705" y="400" width="70" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="KSfDmZof9sS_4XdEDlB2-4" value="CPU" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="-21" y="230" width="70" height="20" as="geometry" />
+        <mxCell id="KSfDmZof9sS_4XdEDlB2-4" value="CPU" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" parent="1" vertex="1">
+          <mxGeometry x="-201" y="200" width="70" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="KSfDmZof9sS_4XdEDlB2-5" value="GPU" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="-20" y="520" width="70" height="20" as="geometry" />
+        <mxCell id="KSfDmZof9sS_4XdEDlB2-5" value="GPU" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" parent="1" vertex="1">
+          <mxGeometry x="-200" y="490" width="70" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
